@@ -57,4 +57,3 @@ for count in namelist:
 salfi.close()
 nosalfi.close()
 svaresult.close()
-# test
