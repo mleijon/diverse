@@ -3,6 +3,7 @@
 import argparse
 import os
 import sys
+from shutil import copyfile
 
 
 def mk_mod_dict(name):
@@ -38,9 +39,27 @@ try:
     with os.scandir(ARGS.d) as it:
         for entry in it:
             if not entry.name.startswith('.') and entry.is_file():
-                tmpfile = open('modfile.tmp','w')
-                with open(it) as infile:
+                tmpfile = open('modfile.tmp', 'w')
+                with open(entry) as infile:
                     all_lines = infile.readlines()
+                    line_nr = 0
+                    for line in all_lines:
+                        newline = ''
+                        if str(line_nr) in modifications.keys():
+                            newline = line
+                            for mod in modifications[str(line_nr)]:
+                                if mod[0] != 'd':
+                                    newline = newline[:int(mod[0])] + mod[1] + \
+                                              newline[int(mod[0]) + 1:]
+                            if mod[0] != 'd':
+                                tmpfile.write(newline)
+                        if newline == '':
+                            tmpfile.write(line)
+                        line_nr += 1
+                    tmpfile.close()
+                    infile.close()
+                    copyfile('modfile.tmp', entry)
+                    os.remove('modfile.tmp')
 
 except FileNotFoundError:
     sys.exit("'{}' not found".format(ARGS.d))
