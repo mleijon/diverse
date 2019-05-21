@@ -7,8 +7,11 @@ from shutil import copyfile
 
 
 def mk_mod_dict(name):
-    """
-    """
+    """Reads an input file with a list of text file modifications, one per line. With  the format:
+    row-nr,column_nr,new_character. A special case is delation of a line, ehich is indicated by row_nr,d,. This
+    function parses the file and create a dictionary with the row numbers as keys (starting with rwo zero) and a list
+    tuples with (colum_nr,new_character) for the character substitutions on each row. THe default input filename is
+    'mod.txt'"""
     try:
         infile = open(name)
     except FileNotFoundError:
@@ -36,7 +39,7 @@ try:
     with os.scandir(ARGS.d) as it:
         for entry in it:
             if not entry.name.startswith('.') and entry.is_file():
-                tmpfile = open('modfile.tmp', 'w')
+                tmpFile = open('modFile.tmp', 'w')
                 with open(entry) as infile:
                     all_lines = infile.readlines()
                     line_nr = 0
@@ -49,12 +52,12 @@ try:
                                 for mod in modifications[str(line_nr)]:
                                     line = line[:int(mod[0])] + mod[1] + \
                                               line[int(mod[0]) + 1:]
-                        tmpfile.write(line)
+                        tmpFile.write(line)
                         line_nr += 1
-                    tmpfile.close()
+                    tmpFile.close()
                     infile.close()
-                    copyfile('modfile.tmp', entry)
-                    os.remove('modfile.tmp')
+                    copyfile('modFile.tmp', entry)
+                    os.remove('modFile.tmp')
 
 except FileNotFoundError:
     sys.exit("'{}' not found".format(ARGS.d))
