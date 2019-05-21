@@ -8,9 +8,6 @@ from shutil import copyfile
 
 def mk_mod_dict(name):
     """
-
-    :param name:
-    :return:
     """
     try:
         infile = open(name)
@@ -44,17 +41,15 @@ try:
                     all_lines = infile.readlines()
                     line_nr = 0
                     for line in all_lines:
-                        newline = ''
                         if str(line_nr) in modifications.keys():
-                            newline = line
-                            for mod in modifications[str(line_nr)]:
-                                if mod[0] != 'd':
-                                    newline = newline[:int(mod[0])] + mod[1] + \
-                                              newline[int(mod[0]) + 1:]
-                            if mod[0] != 'd':
-                                tmpfile.write(newline)
-                        if newline == '':
-                            tmpfile.write(line)
+                            if modifications[str(line_nr)][0][0] == 'd':
+                                line_nr += 1
+                                continue
+                            else:
+                                for mod in modifications[str(line_nr)]:
+                                    line = line[:int(mod[0])] + mod[1] + \
+                                              line[int(mod[0]) + 1:]
+                        tmpfile.write(line)
                         line_nr += 1
                     tmpfile.close()
                     infile.close()
