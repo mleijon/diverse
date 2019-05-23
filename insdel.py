@@ -8,25 +8,23 @@ from shutil import copyfile
 
 def mk_mod_dict(name):
     """Reads an input file with a list of text file modifications, one per line. With  the format:
-    row-nr,column_nr,new_character. A special case is delation of a line, ehich is indicated by row_nr,d,. This
+    row-nr,column_nr,new_character. A special case is deletion of a line, which is indicated by row_nr,d,. This
     function parses the file and create a dictionary with the row numbers as keys (starting with rwo zero) and a list
-    tuples with (colum_nr,new_character) for the character substitutions on each row. THe default input filename is
+    tuples with (column_nr,new_character) for the character substitutions on each row. THe default input filename is
     'mod.txt'"""
     try:
-        infile = open(name)
+        with open(name) as f:
+            mod_dict = dict()
+            lines = f.readlines()
+            for li in lines:
+                m = li.strip().split(',')
+                if m[0] in mod_dict:
+                    mod_dict[m[0]].append((m[1], m[2]))
+                else:
+                    mod_dict[m[0]] = [(m[1], m[2])]
+        return mod_dict
     except FileNotFoundError:
         sys.exit('Modification file not found')
-    mod_dict = dict()
-    with open(ARGS.m) as infile:
-        lines = infile.readlines()
-        for line in lines:
-            mod = line.strip().split(',')
-            if mod[0] in mod_dict:
-                mod_dict[mod[0]].append((mod[1], mod[2]))
-            else:
-                mod_dict[mod[0]] = [(mod[1], mod[2])]
-    infile.close()
-    return mod_dict
 
 
 PARSER = argparse.ArgumentParser(description='String modification file')
