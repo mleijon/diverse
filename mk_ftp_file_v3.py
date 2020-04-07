@@ -4,6 +4,13 @@ import argparse
 from pathlib import Path
 import os
 import shutil
+import threading
+
+
+def transfer(com):
+    os.system(com)
+    return
+
 
 FTP = "ftp://ftp.ncbi.nlm.nih.gov/blast/db/"
 LOG = "wgetlog.txt"
@@ -17,12 +24,16 @@ if os.path.isdir(ARGS.f):
 os.mkdir(ARGS.f)
 os.chdir(ARGS.f)
 print('reading the number of {}-files at {}...'.format(ARGS.b, FTP))
-command= 'wget -q ' + FTP + ARGS.b + '.*.tar.gz.md5'
-os.system(command)
+command = 'wget -q -nc ' + FTP + ARGS.b + '.*.tar.gz.md5'
+thread = threading.Thread(target=transfer(command))
+thread.start()
+thread.join()
 nr_of_files = len([name for name in os.listdir('.') if os.path.isfile(name)])
 print('{} {}-files found'.format(nr_of_files, ARGS.b))
 for i in range(nr_of_files):
-    file = ARGS.b +'.' + str(i).zfill(2) + '.tar.gz'
-    command = 'wget ' + FTP + file
-    os.system(command)
-
+    file = ARGS.b + '.' + str(i).zfill(2) + '.tar.gz'
+    command = 'wget -nc -q ' + FTP + file
+    thread = threading.Thread(target=transfer(command))
+    thread.start()
+    thread.join()
+    os.system('md5sum -c ' + file + '.md5')
