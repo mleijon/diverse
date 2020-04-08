@@ -32,8 +32,8 @@ nr_of_files = len([name for name in os.listdir('.') if os.path.isfile(name)])
 print('{} {}-files found'.format(nr_of_files, ARGS.b))
 for i in range(nr_of_files):
     file = ARGS.b + '.' + str(i).zfill(2) + '.tar.gz'
-    command = 'wget -nc -q ' + FTP + file
+    command = 'wget -nc -q ' + FTP + file + '; md5sum -c ' + file + '.md5 >> wget.log; tar -xzf ' + file
     thread = threading.Thread(target=transfer(command))
     thread.start()
     thread.join()
-    os.system('md5sum -c ' + file + '.md5')
+    os.system('md5sum -c ' + file + '.md5 >> wget.log')
