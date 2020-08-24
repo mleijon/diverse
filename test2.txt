@@ -1,0 +1,1426 @@
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS15138
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2765475 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS16262
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        3736866 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS16263
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2735829 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS18065
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2729386 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS2813
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30      (2775575) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS3161
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27      (2736108) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS3163
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27      (2738857) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS3593
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28      (2735245) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS3770
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31      (2652007) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS4636
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:26      (2732234) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS4655
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29      (2730313) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS4835
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28      (2810997) assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS4837
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2686381 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS5934
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2726472 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS5960
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2726471 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS5961
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2766461 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\14MAS7411
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2736615 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS15716
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2769901 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS16039
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2697054 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS16103
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2696735 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS17263
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2697853 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS17906
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2736048 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS2227
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2735550 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS4411
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2735688 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\15MAS53
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2781391 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS3549
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2694261 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS3893
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2728904 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS3911
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2769264 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS5001
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2685336 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS5287
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2736147 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS5292
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2771276 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS5411
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2764328 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MAS671
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2724487 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK106812
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2695624 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK170486
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2735949 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK176639
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2771324 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK177356
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2698562 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK198275
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2684439 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK235469
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2736371 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK67332
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2749582 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK89290
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2740407 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\16MIK89291
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2695054 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK105973
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2740657 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK182667
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2700005 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK231389
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2736960 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK236312
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2736936 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK236317
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2782527 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK275134
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2783478 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK282033
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2731383 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK285844
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2108904 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK285847
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2770427 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK285854
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2110091 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK292745
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2787033 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK294824
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2760381 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK296699
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2764595 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK301674
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2762186 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK4241
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2742264 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK54783
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2794498 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\17MIK8569
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2770028 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK107981
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2770567 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK111399
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2736806 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK130372
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2770713 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK130375
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2735344 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK138695
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2728449 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK153015
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2818241 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK153016
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2764381 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK172049
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2736985 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK173005
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2762408 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK174964
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2732019 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK188510
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2773516 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK19134
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2736792 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK225072
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2730513 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK235616
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2696801 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK236056
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2770762 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK237933
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2740594 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK241246
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2736167 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK24664
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2740138 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK24679
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2682125 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK30539
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2761956 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK32333
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2736256 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK34963
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2765288 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK38926
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2768052 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK38927
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2736389 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK4122
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2695247 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK6340
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2765124 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK6344
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2759246 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK95161
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2697281 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK95162
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2697091 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\18MIK95163
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2767413 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma101
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2741262 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma131
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2736710 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma133
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2765824 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma15
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2741148 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma160
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2768757 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma161
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2744268 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma168
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2686473 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma172
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2735270 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma190
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2735295 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma209
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2701885 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma21
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2735525 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma23
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2740693 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma243
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2731130 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma279
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2770876 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma28
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2820195 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma285
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2737103 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma307
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2750739 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma310
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2771154 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma313
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2681467 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma33
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2732874 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma355
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2736875 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma359
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2692980 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma37
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2776541 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma371
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2770936 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma379
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2730771 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma386
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2814064 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma393
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2743147 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma408
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2736695 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma409
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2793971 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma410
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2736265 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma417
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2697127 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma438
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2696714 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma446
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2809179 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma461
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2725024 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma465
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2720434 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma477
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2686721 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma493
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2737000 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma504
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2732202 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma513
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2770953 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma52
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2776298 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma520
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2769878 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma523
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2734407 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma525
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2737580 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma528
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2771179 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma561
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2770344 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma570
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2736481 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma572
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:33        2736525 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma576
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2741738 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma584
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2742838 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma590
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2736231 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma591
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2682637 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma592
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2729944 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma594
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2741774 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma602
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2741522 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma606
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2736638 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma608
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2737529 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma624
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2698070 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma640
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2737628 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma650
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2771054 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma660
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2742494 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma671
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2737239 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma696
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2733739 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma7
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2736059 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma715
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2736972 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma722
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2736799 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma723
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2684897 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma725
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2872422 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma731
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2678063 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma736
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2736102 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma738
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2736557 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma750
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2737320 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma751
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2732008 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma755
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2732075 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma763
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:32        2737133 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma764
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2737504 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma767
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2771356 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma779
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2697054 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma783
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2737120 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma787
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2736376 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma796
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:30        2733237 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma799
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2770805 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma801
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2772802 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma805
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2737798 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma816
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2820548 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma850
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:27        2736076 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma861
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2686112 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma870
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:29        2724057 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma874
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:28        2700599 assembly.fasta                                                                                                                             
+
+
+    Directory: C:\Users\mikael.leijon\OneDrive - SVA\Mikael Leijon_2\Projects\HTS\SA - KA\Emily Atkins Master project\unicycler-run2\Ma883
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                       
+----                -------------         ------ ----                                                                                                                                       
+-a---l       2020-01-15     10:31        2728223 assembly.fasta                                                                                                                             
+
+
