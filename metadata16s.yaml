@@ -1,0 +1,1731 @@
+---
+# Metadata for 16S samples from VISSG/NORSE/OTTE
+data:
+  - name: VISSGA0100
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 1
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0103
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 1
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0107
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 1
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0110
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 1
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0114
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 1
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0121
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 1
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0200
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 2
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0203
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 2
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0207
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 2
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0210
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 2
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0214
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 2
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0221
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 2
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0300
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 3
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0303
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 3
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0307
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 3
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0310
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 3
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0314
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 3
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0321
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 3
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0400
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 4
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0403
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 4
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0407
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 4
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0410
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 4
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0414
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 4
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGA0421
+    metadata:
+      farm: FARM_V
+      set: A
+      pigid: 4
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0500
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 5
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0503
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 5
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0507
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 5
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0510
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 5
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0514
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 5
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0521
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 5
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0600
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 6
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0603
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 6
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0607
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 6
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0610
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 6
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0614
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 6
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0621
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 6
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0700
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 7
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0703
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 7
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0707
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 7
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0710
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 7
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0714
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 7
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0721
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 7
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0800
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 8
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0803
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 8
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0807
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 8
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0810
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 8
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0814
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 8
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGB0821
+    metadata:
+      farm: FARM_V
+      set: B
+      pigid: 8
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0200
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 2
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0203
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 2
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0207
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 2
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0210
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 2
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0214
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 2
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0221
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 2
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0300
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 3
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0303
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 3
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0307
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 3
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0310
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 3
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0314
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 3
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0321
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 3
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0400
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 4
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0403
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 4
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0407
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 4
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0410
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 4
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0414
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 4
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGC0421
+    metadata:
+      farm: FARM_V
+      set: C
+      pigid: 4
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0100
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 1
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0103
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 1
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0107
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 1
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0110
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 1
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0114
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 1
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0121
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 1
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0500
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 5
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0503
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 5
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0507
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 5
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0510
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 5
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0514
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 5
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0521
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 5
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0600
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 6
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0603
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 6
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0607
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 6
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0610
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 6
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0614
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 6
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0621
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 6
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0700
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 7
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0703
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 7
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0707
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 7
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0710
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 7
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0714
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 7
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0721
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 7
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0800
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 8
+      weekaw: 0
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0803
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 8
+      weekaw: 3
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0807
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 8
+      weekaw: 7
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0810
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 8
+      weekaw: 10
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0814
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 8
+      weekaw: 14
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: VISSGD0821
+    metadata:
+      farm: FARM_V
+      set: D
+      pigid: 8
+      weekaw: 21
+      pwd: no
+      zink: no
+      healthy: yes
+  - name: NORSEA0100-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 1
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0103-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 1
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0107-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 1
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0110-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 1
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0114-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 1
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0121-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 1
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0200-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 2
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0203-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 2
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0207-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 2
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0210-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 2
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0214-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 2
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0221-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 2
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0300-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 3
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0303-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 3
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0307-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 3
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0310-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 3
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0314-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 3
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0321-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 3
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0400-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 4
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0403-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 4
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0407-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 4
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0410-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 4
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0414-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 4
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEA0421-pwd
+    metadata:
+      farm: FARM_N
+      set: A
+      pigid: 4
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0500-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 5
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0503-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 5
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0507-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 5
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0510-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 5
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0514-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 5
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0521-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 5
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0600-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 6
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0603-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 6
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0607-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 6
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0610-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 6
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0614-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 6
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0621-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 6
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0700-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 7
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0703-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 7
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0707-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 7
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0710-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 7
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0714-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 7
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0721-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 7
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0800-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 8
+      weekaw: 0
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0803-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 8
+      weekaw: 3
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0807-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 8
+      weekaw: 7
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0810-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 8
+      weekaw: 10
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0814-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 8
+      weekaw: 14
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: NORSEB0821-pwd
+    metadata:
+      farm: FARM_N
+      set: B
+      pigid: 8
+      weekaw: 21
+      pwd: no
+      zink: yes
+      healthy: yes
+  - name: OTTEKA0100-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 8
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0103-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 1
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0107-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 1
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0110-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 1
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0114-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 1
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0121-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 1
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0200-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 2
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0203-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 2
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0207-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 2
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0210-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 2
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0214-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 2
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0221-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 2
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0300-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 3
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0303-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 3
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0307-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 3
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0310-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 3
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0314-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 3
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0321-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 3
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0400-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 4
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0403-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 4
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0407-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 4
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0410-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 4
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0414-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 4
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKA0421-zno
+    metadata:
+      farm: FARM_O
+      set: C
+      pigid: 4
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0500-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 5
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0503-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 5
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0507-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 5
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0510-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 5
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0514-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 5
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0521-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 5
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0600-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 6
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0603-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 6
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0607-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 6
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0610-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 6
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0614-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 6
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0621-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 6
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0700-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 7
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0703-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 7
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0707-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 7
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0710-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 7
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0714-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 7
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0721-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 7
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0800-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 8
+      weekaw: 0
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0803-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 8
+      weekaw: 3
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0807-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 8
+      weekaw: 7
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0810-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 8
+      weekaw: 10
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0814-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 8
+      weekaw: 14
+      pwd: yes
+      zink: no
+      healthy: yes
+  - name: OTTEKB0821-zno
+    metadata:
+      farm: FARM_O
+      set: D
+      pigid: 8
+      weekaw: 21
+      pwd: yes
+      zink: no
+      healthy: yes
