@@ -13,14 +13,14 @@ with open(ARGS.i) as f:
         samples.append(line.strip().split(";"))
 
 with open(ARGS.o,"w") as f:
-    f.writelines(["---\n", "# Metadata for 16S samples from VISSG/NORSE/OTTE\n", "data:\n"])
+    f.writelines(["---\n", "# Metadata for 16S samples from VISSG/NORSE/OTTE\n"])
     for item in samples:
-        f.write("  - name: {}\n    metadata:\n".format(item[0]))
-        f.write("      farm: {}\n".format(item[1]))
-        f.write("      set: {}\n".format(item[2]))
-        f.write("      pigid: {}\n".format(item[3]))
-        f.write("      weekaw: {}\n".format(item[4]))
-        f.write("      pwd: {}\n".format(item[5].lower()))
-        f.write("      zink: {}\n".format(item[6].lower()))
-        f.write("      healthy: {}\n".format(item[7].lower()))
+        f.write("{}:\n".format(item[0]))
+        f.write("  farm: {}\n".format(item[1]))
+        f.write("  set: {}\n".format(item[2]))
+        f.write("  pigid: {}\n".format(item[3]))
+        f.write("  weekaw: {}\n".format(item[4]))
+        f.write("  pwd: {}\n".format(item[5].lower()))
+        f.write("  zink: {}\n".format(item[6].lower()))
+        f.write("  healthy: {}\n".format(item[7].lower()))
 
